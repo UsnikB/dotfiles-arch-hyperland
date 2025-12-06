@@ -20,11 +20,10 @@ This repository contains my personal dotfiles for a customized Arch Linux Hyprla
     Before proceeding, it's recommended to back up your existing configuration files.
 
 3.  **Run the installation script:**
-    A script will be provided to create symbolic links for all the managed configurations.
+    This script will copy the configurations to your `~/.config` directory.
     ```bash
     ./install.sh
     ```
-    **TODO:** Create the `install.sh` script.
 
 ## Managed Configurations
 
